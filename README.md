@@ -7,8 +7,8 @@ As part of Major project, created a working model of Emotion Recognition in spee
 3. Surrey Audio-Visual Expressed Emotion (Savee) 
 4. Toronto emotional speech set (Tess).
 
-<Center>![image](https://user-images.githubusercontent.com/75368733/168967278-cf0b1149-c2bf-44ec-ab42-fc4a9f7c885f.png)<\Centered>
-<Center>*Combine Dataset Count on the bases of Emotion + Gender*<\Centered>
+![image](https://user-images.githubusercontent.com/75368733/168967278-cf0b1149-c2bf-44ec-ab42-fc4a9f7c885f.png)
+<h4><Center>Combine Dataset Count on the bases of Emotion + Gender<\Centered><\h4>
 <Center>![image](https://user-images.githubusercontent.com/75368733/168967130-9c5d20e1-b549-4616-bd93-849d3cc0181d.png)<\Centered>
 <Center>*Combine Dataset Bar Graph*<\Centered>
 ***
