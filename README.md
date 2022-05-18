@@ -6,9 +6,4 @@ As part of Major project, created a working model of Emotion Recognition in spee
 2. Ryerson Audio-Visual Database of Emotional Speech and Song (Ravdess),
 3. Surrey Audio-Visual Expressed Emotion (Savee) 
 4. Toronto emotional speech set (Tess).
-
-![image](https://user-images.githubusercontent.com/75368733/168967278-cf0b1149-c2bf-44ec-ab42-fc4a9f7c885f.png)
-<Center><h4>Combine Dataset Count on the bases of Emotion + Gender<\h4><\Centered>
-![image](https://user-images.githubusercontent.com/75368733/168967130-9c5d20e1-b549-4616-bd93-849d3cc0181d.png)
-<Center>Combine Dataset Bar Graph<\Centered>
 ***
