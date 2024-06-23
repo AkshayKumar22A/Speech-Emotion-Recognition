@@ -1,5 +1,7 @@
 # Speech-Emotion-Recognition
-The main goal and objective for the project undertaken are to created a working model of Emotion Recognition in speech Using Machine learning in Python and combine four different standard datasets. Participated and presented research paper on Exploring the Emotion Recognition in speech Using Machine Learning in the 2nd International Conference on Information Technology (InCITe) 2022
+The main goal and objective for the project undertaken are to created a working model of Emotion Recognition in speech Using Machine learning in Python and combine four different standard datasets.
+Used 1D CNN and 2D CNN to calsify the audio file into there respective for only gender clasification, Emotion by gender clasification and only Emotion clasification.
+Participated and presented research paper on Exploring the Emotion Recognition in speech Using Machine Learning in the 2nd International Conference on Information Technology (InCITe) 2022
 ***
 
 ## About Authors & Paper
@@ -23,7 +25,7 @@ Keras & TensorFlow 2
 ## Requirments
 ### Python
 * [TensorFlow 2](https://github.com/tensorflow/tensorflow) & [Keras](https://github.com/keras-team/keras): CNN (tensorflow.keras)
-* [Scikit-learn](https://github.com/scikit-learn/scikit-learn): SVM & MLP, split data into training set and testing set
+* [Scikit-learn](https://github.com/scikit-learn/scikit-learn): 1D and 2D CNN (Convolutional Neural Networks), split data into training set and testing set
 * [Joblib](https://github.com/joblib/joblib)：save and load models trained by scikit-learn
 * [librosa](https://github.com/librosa/librosa): extract features, waveform
 * [SciPy](https://github.com/scipy/scipy): spectrogram
@@ -40,8 +42,9 @@ There are 7 emotions available for both Male and Femail: "neutral", "happy" "sad
 ## Feature Extraction
 Feature extraction is the main part of the speech emotion recognition system. It is basically accomplished by changing the speech waveform to a form of parametric representation at a relatively lesser data rate.
 In this repository, we have used the most used features that are available in librosa library including:
-* MFCC
+* MFCC (Mel-Frequency Cepstrum Coefficients)
 * Chromagram
+* Log-melspectogram
 * MEL Spectrogram Frequency (mel)
 * Contrast
 ***
